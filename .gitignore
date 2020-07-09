@@ -1,2 +1,5 @@
 .idea
 venv
+dask-worker-space
+.ipynb_checkpoints
+Untitled.ipynb
